@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-12-10T12:02:51.258+02:00
-  initializedAtString: 2019-12-10T11:49:22.782+02:00
+  lastUpdatedAtString: 2019-12-13T11:49:51.443+02:00
+  initializedAtString: 2019-12-13T11:49:51.420+02:00
   localBranches:
   - name: master
-    tracking: 
+    tracking: origin/master
   remoteBranches:
   - name: origin/master
     tracking: '[None]'
@@ -35,9 +35,9 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/RandoMikksaar/End-of-the-Forest.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin

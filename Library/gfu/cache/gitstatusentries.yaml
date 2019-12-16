@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-12-13T09:37:31.128+02:00
-  initializedAtString: 2019-12-13T08:32:32.297+02:00
+  lastUpdatedAtString: 2019-12-16T23:17:44.454+02:00
+  initializedAtString: 2019-12-16T18:30:37.598+02:00
   entries:
   - path: Assembly-CSharp.csproj
     fullPath: D:\Unity\New Unity Project\Assembly-CSharp.csproj
@@ -22,27 +22,953 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\Unity\New Unity Project\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\78979981_1324252931081205_6867970181696585728_n.jpg
+    fullPath: D:\Unity\New Unity Project\Assets\78979981_1324252931081205_6867970181696585728_n.jpg
+    projectPath: Assets\78979981_1324252931081205_6867970181696585728_n.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\78979981_1324252931081205_6867970181696585728_n.jpg.meta
+    fullPath: D:\Unity\New Unity Project\Assets\78979981_1324252931081205_6867970181696585728_n.jpg.meta
+    projectPath: Assets\78979981_1324252931081205_6867970181696585728_n.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\blend files.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files.meta
+    projectPath: Assets\blend files.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\boots.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\boots.blend
+    projectPath: Assets\blend files\boots.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\boots.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\boots.blend.meta
+    projectPath: Assets\blend files\boots.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\boots.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\boots.blend1
+    projectPath: Assets\blend files\boots.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\boots.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\boots.blend1.meta
+    projectPath: Assets\blend files\boots.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Blend files\boots.png
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\boots.png
+    projectPath: Assets\Blend files\boots.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\boots.png.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\boots.png.meta
+    projectPath: Assets\Blend files\boots.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\bottle.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\bottle.blend
+    projectPath: Assets\Blend files\bottle.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\bottle.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\bottle.blend.meta
+    projectPath: Assets\Blend files\bottle.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\blend files\dirt.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\dirt.blend
+    projectPath: Assets\blend files\dirt.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\dirt.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\dirt.blend.meta
+    projectPath: Assets\blend files\dirt.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\dirt.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\dirt.blend1
+    projectPath: Assets\blend files\dirt.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\dirt.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\dirt.blend1.meta
+    projectPath: Assets\blend files\dirt.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Blend files\dirt.png
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\dirt.png
+    projectPath: Assets\Blend files\dirt.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\dirt.png.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\dirt.png.meta
+    projectPath: Assets\Blend files\dirt.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\blend files\fallen tree without grass.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\fallen tree without grass.blend
+    projectPath: Assets\blend files\fallen tree without grass.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\fallen tree without grass.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\fallen tree without grass.blend.meta
+    projectPath: Assets\blend files\fallen tree without grass.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\fallen tree.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\fallen tree.blend
+    projectPath: Assets\blend files\fallen tree.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\fallen tree.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\fallen tree.blend.meta
+    projectPath: Assets\blend files\fallen tree.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\fallen tree.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\fallen tree.blend1
+    projectPath: Assets\blend files\fallen tree.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\fallen tree.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\fallen tree.blend1.meta
+    projectPath: Assets\blend files\fallen tree.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\grass 3.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass 3.blend
+    projectPath: Assets\blend files\grass 3.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\grass 3.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass 3.blend.meta
+    projectPath: Assets\blend files\grass 3.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\grass 4.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass 4.blend
+    projectPath: Assets\blend files\grass 4.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\grass 4.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass 4.blend.meta
+    projectPath: Assets\blend files\grass 4.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\grass normal.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass normal.blend1
+    projectPath: Assets\blend files\grass normal.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\grass normal.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass normal.blend1.meta
+    projectPath: Assets\blend files\grass normal.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\grass1.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass1.blend
+    projectPath: Assets\blend files\grass1.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\grass1.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass1.blend.meta
+    projectPath: Assets\blend files\grass1.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\grass1.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass1.blend1
+    projectPath: Assets\blend files\grass1.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\grass1.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass1.blend1.meta
+    projectPath: Assets\blend files\grass1.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\grass2.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass2.blend
+    projectPath: Assets\blend files\grass2.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\grass2.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass2.blend.meta
+    projectPath: Assets\blend files\grass2.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\grass2.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass2.blend1
+    projectPath: Assets\blend files\grass2.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\grass2.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\grass2.blend1.meta
+    projectPath: Assets\blend files\grass2.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\hatchet.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\hatchet.blend
+    projectPath: Assets\blend files\hatchet.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\hatchet.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\hatchet.blend.meta
+    projectPath: Assets\blend files\hatchet.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\hatchet.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\hatchet.blend1
+    projectPath: Assets\blend files\hatchet.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\hatchet.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\hatchet.blend1.meta
+    projectPath: Assets\blend files\hatchet.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Blend files\hatchet.png
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\hatchet.png
+    projectPath: Assets\Blend files\hatchet.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\hatchet.png.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\hatchet.png.meta
+    projectPath: Assets\Blend files\hatchet.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\man.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\man.blend
+    projectPath: Assets\Blend files\man.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\man.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\man.blend.meta
+    projectPath: Assets\Blend files\man.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials.meta
+    projectPath: Assets\Blend files\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\dirt.mat
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\dirt.mat
+    projectPath: Assets\Blend files\Materials\dirt.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\dirt.mat.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\dirt.mat.meta
+    projectPath: Assets\Blend files\Materials\dirt.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\mud.mat
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\mud.mat
+    projectPath: Assets\Blend files\Materials\mud.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\mud.mat.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\mud.mat.meta
+    projectPath: Assets\Blend files\Materials\mud.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\pine.mat
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\pine.mat
+    projectPath: Assets\Blend files\Materials\pine.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\pine.mat.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\pine.mat.meta
+    projectPath: Assets\Blend files\Materials\pine.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\rock.mat
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\rock.mat
+    projectPath: Assets\Blend files\Materials\rock.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\rock.mat.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\rock.mat.meta
+    projectPath: Assets\Blend files\Materials\rock.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\tile.mat
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\tile.mat
+    projectPath: Assets\Blend files\Materials\tile.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\tile.mat.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\tile.mat.meta
+    projectPath: Assets\Blend files\Materials\tile.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\water.mat
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\water.mat
+    projectPath: Assets\Blend files\Materials\water.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\Materials\water.mat.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\Materials\water.mat.meta
+    projectPath: Assets\Blend files\Materials\water.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\blend files\mud.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\mud.blend
+    projectPath: Assets\blend files\mud.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\mud.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\mud.blend.meta
+    projectPath: Assets\blend files\mud.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\mud.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\mud.blend1
+    projectPath: Assets\blend files\mud.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\mud.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\mud.blend1.meta
+    projectPath: Assets\blend files\mud.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Blend files\mud.png
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\mud.png
+    projectPath: Assets\Blend files\mud.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\mud.png.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\mud.png.meta
+    projectPath: Assets\Blend files\mud.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\mushrooms.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\mushrooms.blend
+    projectPath: Assets\Blend files\mushrooms.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\mushrooms.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\mushrooms.blend.meta
+    projectPath: Assets\Blend files\mushrooms.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\blend files\pine.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\pine.blend
+    projectPath: Assets\blend files\pine.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\pine.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\pine.blend.meta
+    projectPath: Assets\blend files\pine.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\pine.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\pine.blend1
+    projectPath: Assets\blend files\pine.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\pine.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\pine.blend1.meta
+    projectPath: Assets\blend files\pine.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Blend files\pine.png
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\pine.png
+    projectPath: Assets\Blend files\pine.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\pine.png.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\pine.png.meta
+    projectPath: Assets\Blend files\pine.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\rock.png
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\rock.png
+    projectPath: Assets\Blend files\rock.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\rock.png.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\rock.png.meta
+    projectPath: Assets\Blend files\rock.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\stone.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\stone.blend
+    projectPath: Assets\Blend files\stone.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\stone.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\stone.blend.meta
+    projectPath: Assets\Blend files\stone.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\tile.png
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\tile.png
+    projectPath: Assets\Blend files\tile.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\tile.png.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\tile.png.meta
+    projectPath: Assets\Blend files\tile.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\tree stump.png
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\tree stump.png
+    projectPath: Assets\Blend files\tree stump.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\tree stump.png.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\tree stump.png.meta
+    projectPath: Assets\Blend files\tree stump.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\blend files\water.blend
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\water.blend
+    projectPath: Assets\blend files\water.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\water.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\water.blend.meta
+    projectPath: Assets\blend files\water.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\blend files\water.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\water.blend1
+    projectPath: Assets\blend files\water.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blend files\water.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\blend files\water.blend1.meta
+    projectPath: Assets\blend files\water.blend1.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Blend files\water.png
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\water.png
+    projectPath: Assets\Blend files\water.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\water.png.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\water.png.meta
+    projectPath: Assets\Blend files\water.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\wolf jump on tiles.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\wolf jump on tiles.blend
+    projectPath: Assets\Blend files\wolf jump on tiles.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\wolf jump on tiles.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\wolf jump on tiles.blend.meta
+    projectPath: Assets\Blend files\wolf jump on tiles.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\wolf.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\wolf.blend
+    projectPath: Assets\Blend files\wolf.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Blend files\wolf.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Blend files\wolf.blend.meta
+    projectPath: Assets\Blend files\wolf.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CameraController.cs
+    fullPath: D:\Unity\New Unity Project\Assets\CameraController.cs
+    projectPath: Assets\CameraController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\CameraController.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\CameraController.cs.meta
+    projectPath: Assets\CameraController.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\ClickableTile.cs
     fullPath: D:\Unity\New Unity Project\Assets\ClickableTile.cs
     projectPath: Assets\ClickableTile.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\ClickableTile.cs.meta
     fullPath: D:\Unity\New Unity Project\Assets\ClickableTile.cs.meta
     projectPath: Assets\ClickableTile.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\HexTilemapGenerator.cs
+    fullPath: D:\Unity\New Unity Project\Assets\HexTilemapGenerator.cs
+    projectPath: Assets\HexTilemapGenerator.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\HexTilemapGenerator.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\HexTilemapGenerator.cs.meta
+    projectPath: Assets\HexTilemapGenerator.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\MainMenu.cs
+    fullPath: D:\Unity\New Unity Project\Assets\MainMenu.cs
+    projectPath: Assets\MainMenu.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\MainMenu.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\MainMenu.cs.meta
+    projectPath: Assets\MainMenu.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\man.blend
     fullPath: D:\Unity\New Unity Project\Assets\man.blend
     projectPath: Assets\man.blend
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\man.blend.meta
     fullPath: D:\Unity\New Unity Project\Assets\man.blend.meta
     projectPath: Assets\man.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Materials\tile.mat
+    fullPath: D:\Unity\New Unity Project\Assets\Materials\tile.mat
+    projectPath: Assets\Materials\tile.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Old blend files.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files.meta
+    projectPath: Assets\Old blend files.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\boots.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\boots.blend
+    projectPath: Assets\Old blend files\boots.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\boots.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\boots.blend.meta
+    projectPath: Assets\Old blend files\boots.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\boots.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\boots.blend1
+    projectPath: Assets\Old blend files\boots.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\boots.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\boots.blend1.meta
+    projectPath: Assets\Old blend files\boots.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\dirt.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\dirt.blend
+    projectPath: Assets\Old blend files\dirt.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\dirt.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\dirt.blend.meta
+    projectPath: Assets\Old blend files\dirt.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\dirt.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\dirt.blend1
+    projectPath: Assets\Old blend files\dirt.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\dirt.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\dirt.blend1.meta
+    projectPath: Assets\Old blend files\dirt.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\fallen tree without grass.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\fallen tree without
+      grass.blend
+    projectPath: Assets\Old blend files\fallen tree without grass.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\fallen tree without grass.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\fallen tree without
+      grass.blend.meta
+    projectPath: Assets\Old blend files\fallen tree without grass.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\fallen tree.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\fallen tree.blend
+    projectPath: Assets\Old blend files\fallen tree.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\fallen tree.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\fallen tree.blend.meta
+    projectPath: Assets\Old blend files\fallen tree.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\fallen tree.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\fallen tree.blend1
+    projectPath: Assets\Old blend files\fallen tree.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\fallen tree.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\fallen tree.blend1.meta
+    projectPath: Assets\Old blend files\fallen tree.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass 3.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass 3.blend
+    projectPath: Assets\Old blend files\grass 3.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass 3.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass 3.blend.meta
+    projectPath: Assets\Old blend files\grass 3.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass 4.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass 4.blend
+    projectPath: Assets\Old blend files\grass 4.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass 4.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass 4.blend.meta
+    projectPath: Assets\Old blend files\grass 4.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass normal.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass normal.blend1
+    projectPath: Assets\Old blend files\grass normal.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass normal.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass normal.blend1.meta
+    projectPath: Assets\Old blend files\grass normal.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass1.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass1.blend
+    projectPath: Assets\Old blend files\grass1.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass1.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass1.blend.meta
+    projectPath: Assets\Old blend files\grass1.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass1.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass1.blend1
+    projectPath: Assets\Old blend files\grass1.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass1.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass1.blend1.meta
+    projectPath: Assets\Old blend files\grass1.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass2.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass2.blend
+    projectPath: Assets\Old blend files\grass2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass2.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass2.blend.meta
+    projectPath: Assets\Old blend files\grass2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass2.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass2.blend1
+    projectPath: Assets\Old blend files\grass2.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\grass2.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\grass2.blend1.meta
+    projectPath: Assets\Old blend files\grass2.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\hatchet.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\hatchet.blend
+    projectPath: Assets\Old blend files\hatchet.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\hatchet.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\hatchet.blend.meta
+    projectPath: Assets\Old blend files\hatchet.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\hatchet.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\hatchet.blend1
+    projectPath: Assets\Old blend files\hatchet.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\hatchet.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\hatchet.blend1.meta
+    projectPath: Assets\Old blend files\hatchet.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\man.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\man.blend
+    projectPath: Assets\Old blend files\man.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\man.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\man.blend.meta
+    projectPath: Assets\Old blend files\man.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\mud.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\mud.blend
+    projectPath: Assets\Old blend files\mud.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\mud.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\mud.blend.meta
+    projectPath: Assets\Old blend files\mud.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\mud.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\mud.blend1
+    projectPath: Assets\Old blend files\mud.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\mud.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\mud.blend1.meta
+    projectPath: Assets\Old blend files\mud.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\pine.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\pine.blend
+    projectPath: Assets\Old blend files\pine.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\pine.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\pine.blend.meta
+    projectPath: Assets\Old blend files\pine.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\pine.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\pine.blend1
+    projectPath: Assets\Old blend files\pine.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\pine.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\pine.blend1.meta
+    projectPath: Assets\Old blend files\pine.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\water.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\water.blend
+    projectPath: Assets\Old blend files\water.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\water.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\water.blend.meta
+    projectPath: Assets\Old blend files\water.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\water.blend1
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\water.blend1
+    projectPath: Assets\Old blend files\water.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\water.blend1.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\water.blend1.meta
+    projectPath: Assets\Old blend files\water.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\wolf.blend
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\wolf.blend
+    projectPath: Assets\Old blend files\wolf.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Old blend files\wolf.blend.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Old blend files\wolf.blend.meta
+    projectPath: Assets\Old blend files\wolf.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\OptionsMenu.cs
+    fullPath: D:\Unity\New Unity Project\Assets\OptionsMenu.cs
+    projectPath: Assets\OptionsMenu.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\OptionsMenu.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\OptionsMenu.cs.meta
+    projectPath: Assets\OptionsMenu.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\PauseMenu.cs
+    fullPath: D:\Unity\New Unity Project\Assets\PauseMenu.cs
+    projectPath: Assets\PauseMenu.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\PauseMenu.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\PauseMenu.cs.meta
+    projectPath: Assets\PauseMenu.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\boots.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\boots.prefab
+    projectPath: Assets\Prefabs\boots.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\bottle.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\bottle.prefab
+    projectPath: Assets\Prefabs\bottle.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\bottle.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\bottle.prefab.meta
+    projectPath: Assets\Prefabs\bottle.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -51,70 +977,592 @@ MonoBehaviour:
     projectPath: Assets\Prefabs\dirt.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Prefabs\dirt.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\dirt.prefab.meta
+    projectPath: Assets\Prefabs\dirt.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\Fire.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Fire.prefab
+    projectPath: Assets\Prefabs\Fire.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Fire.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Fire.prefab.meta
+    projectPath: Assets\Prefabs\Fire.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Prefabs\grass 3.prefab
     fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass 3.prefab
     projectPath: Assets\Prefabs\grass 3.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Prefabs\grass 3.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass 3.prefab.meta
+    projectPath: Assets\Prefabs\grass 3.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Prefabs\grass 4.prefab
     fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass 4.prefab
     projectPath: Assets\Prefabs\grass 4.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Prefabs\grass 4.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass 4.prefab.meta
+    projectPath: Assets\Prefabs\grass 4.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Prefabs\grass1.prefab
     fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass1.prefab
     projectPath: Assets\Prefabs\grass1.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Prefabs\grass1.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass1.prefab.meta
+    projectPath: Assets\Prefabs\grass1.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Prefabs\grass2.prefab
     fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass2.prefab
     projectPath: Assets\Prefabs\grass2.prefab
     originalPath: 
     indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\grass2.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass2.prefab.meta
+    projectPath: Assets\Prefabs\grass2.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\hatchet.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\hatchet.prefab
+    projectPath: Assets\Prefabs\hatchet.prefab
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Prefabs\Hexagonal prefabs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs.meta
+    projectPath: Assets\Prefabs\Hexagonal prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\dirt.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\dirt.prefab
+    projectPath: Assets\Prefabs\Hexagonal prefabs\dirt.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\dirt.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\dirt.prefab.meta
+    projectPath: Assets\Prefabs\Hexagonal prefabs\dirt.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\grass 3.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\grass 3.prefab
+    projectPath: Assets\Prefabs\Hexagonal prefabs\grass 3.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\grass 3.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\grass 3.prefab.meta
+    projectPath: Assets\Prefabs\Hexagonal prefabs\grass 3.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\grass 4.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\grass 4.prefab
+    projectPath: Assets\Prefabs\Hexagonal prefabs\grass 4.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\grass 4.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\grass 4.prefab.meta
+    projectPath: Assets\Prefabs\Hexagonal prefabs\grass 4.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\grass1.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\grass1.prefab
+    projectPath: Assets\Prefabs\Hexagonal prefabs\grass1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\grass1.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\grass1.prefab.meta
+    projectPath: Assets\Prefabs\Hexagonal prefabs\grass1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\grass2.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\grass2.prefab
+    projectPath: Assets\Prefabs\Hexagonal prefabs\grass2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\grass2.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\grass2.prefab.meta
+    projectPath: Assets\Prefabs\Hexagonal prefabs\grass2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\mud.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\mud.prefab
+    projectPath: Assets\Prefabs\Hexagonal prefabs\mud.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\mud.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\mud.prefab.meta
+    projectPath: Assets\Prefabs\Hexagonal prefabs\mud.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\water.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\water.prefab
+    projectPath: Assets\Prefabs\Hexagonal prefabs\water.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Hexagonal prefabs\water.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Hexagonal prefabs\water.prefab.meta
+    projectPath: Assets\Prefabs\Hexagonal prefabs\water.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\man.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\man.prefab
+    projectPath: Assets\Prefabs\man.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\man.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\man.prefab.meta
+    projectPath: Assets\Prefabs\man.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Prefabs\mud.prefab
     fullPath: D:\Unity\New Unity Project\Assets\Prefabs\mud.prefab
     projectPath: Assets\Prefabs\mud.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Prefabs\mud.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\mud.prefab.meta
+    projectPath: Assets\Prefabs\mud.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\Square prefabs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs.meta
+    projectPath: Assets\Prefabs\Square prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\dirt.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\dirt.prefab
+    projectPath: Assets\Prefabs\Square prefabs\dirt.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\dirt.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\dirt.prefab.meta
+    projectPath: Assets\Prefabs\Square prefabs\dirt.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\grass 4.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\grass 4.prefab
+    projectPath: Assets\Prefabs\Square prefabs\grass 4.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\grass 4.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\grass 4.prefab.meta
+    projectPath: Assets\Prefabs\Square prefabs\grass 4.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\grass1.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\grass1.prefab
+    projectPath: Assets\Prefabs\Square prefabs\grass1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\grass1.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\grass1.prefab.meta
+    projectPath: Assets\Prefabs\Square prefabs\grass1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\grass2.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\grass2.prefab
+    projectPath: Assets\Prefabs\Square prefabs\grass2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\grass2.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\grass2.prefab.meta
+    projectPath: Assets\Prefabs\Square prefabs\grass2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\mud.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\mud.prefab
+    projectPath: Assets\Prefabs\Square prefabs\mud.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\mud.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\mud.prefab.meta
+    projectPath: Assets\Prefabs\Square prefabs\mud.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\water.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\water.prefab
+    projectPath: Assets\Prefabs\Square prefabs\water.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Square prefabs\water.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\Square prefabs\water.prefab.meta
+    projectPath: Assets\Prefabs\Square prefabs\water.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Prefabs\water.prefab
     fullPath: D:\Unity\New Unity Project\Assets\Prefabs\water.prefab
     projectPath: Assets\Prefabs\water.prefab
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Prefabs\water.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\water.prefab.meta
+    projectPath: Assets\Prefabs\water.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\wolf.prefab
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\wolf.prefab
+    projectPath: Assets\Prefabs\wolf.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\wolf.prefab.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Prefabs\wolf.prefab.meta
+    projectPath: Assets\Prefabs\wolf.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline.meta
+    projectPath: Assets\QuickOutline.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Readme.txt
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Readme.txt
+    projectPath: Assets\QuickOutline\Readme.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Readme.txt.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Readme.txt.meta
+    projectPath: Assets\QuickOutline\Readme.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources.meta
+    projectPath: Assets\QuickOutline\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Materials.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Materials.meta
+    projectPath: Assets\QuickOutline\Resources\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Materials\OutlineFill.mat
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Materials\OutlineFill.mat
+    projectPath: Assets\QuickOutline\Resources\Materials\OutlineFill.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Materials\OutlineFill.mat.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Materials\OutlineFill.mat.meta
+    projectPath: Assets\QuickOutline\Resources\Materials\OutlineFill.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Materials\OutlineMask.mat
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Materials\OutlineMask.mat
+    projectPath: Assets\QuickOutline\Resources\Materials\OutlineMask.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Materials\OutlineMask.mat.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Materials\OutlineMask.mat.meta
+    projectPath: Assets\QuickOutline\Resources\Materials\OutlineMask.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Shaders.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Shaders.meta
+    projectPath: Assets\QuickOutline\Resources\Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Shaders\OutlineFill.shader
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Shaders\OutlineFill.shader
+    projectPath: Assets\QuickOutline\Resources\Shaders\OutlineFill.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Shaders\OutlineFill.shader.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Shaders\OutlineFill.shader.meta
+    projectPath: Assets\QuickOutline\Resources\Shaders\OutlineFill.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Shaders\OutlineMask.shader
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Shaders\OutlineMask.shader
+    projectPath: Assets\QuickOutline\Resources\Shaders\OutlineMask.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Resources\Shaders\OutlineMask.shader.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Resources\Shaders\OutlineMask.shader.meta
+    projectPath: Assets\QuickOutline\Resources\Shaders\OutlineMask.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Samples.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Samples.meta
+    projectPath: Assets\QuickOutline\Samples.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Samples\Materials.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Samples\Materials.meta
+    projectPath: Assets\QuickOutline\Samples\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Samples\Materials\Plane.mat
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Samples\Materials\Plane.mat
+    projectPath: Assets\QuickOutline\Samples\Materials\Plane.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Samples\Materials\Plane.mat.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Samples\Materials\Plane.mat.meta
+    projectPath: Assets\QuickOutline\Samples\Materials\Plane.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Samples\Scenes.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Samples\Scenes.meta
+    projectPath: Assets\QuickOutline\Samples\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Samples\Scenes\QuickOutline.unity
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Samples\Scenes\QuickOutline.unity
+    projectPath: Assets\QuickOutline\Samples\Scenes\QuickOutline.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Samples\Scenes\QuickOutline.unity.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Samples\Scenes\QuickOutline.unity.meta
+    projectPath: Assets\QuickOutline\Samples\Scenes\QuickOutline.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Scripts.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Scripts.meta
+    projectPath: Assets\QuickOutline\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Scripts\Outline.cs
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Scripts\Outline.cs
+    projectPath: Assets\QuickOutline\Scripts\Outline.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\QuickOutline\Scripts\Outline.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\QuickOutline\Scripts\Outline.cs.meta
+    projectPath: Assets\QuickOutline\Scripts\Outline.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scenes\First Section.unity
     fullPath: D:\Unity\New Unity Project\Assets\Scenes\First Section.unity
     projectPath: Assets\Scenes\First Section.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CameraController.cs
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\CameraController.cs
+    projectPath: Assets\Scripts\CameraController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CameraController.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\CameraController.cs.meta
+    projectPath: Assets\Scripts\CameraController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ClickableTile.cs
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\ClickableTile.cs
+    projectPath: Assets\Scripts\ClickableTile.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ClickableTile.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\ClickableTile.cs.meta
+    projectPath: Assets\Scripts\ClickableTile.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\HexTilemapGenerator.cs
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\HexTilemapGenerator.cs
+    projectPath: Assets\Scripts\HexTilemapGenerator.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\HexTilemapGenerator.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\HexTilemapGenerator.cs.meta
+    projectPath: Assets\Scripts\HexTilemapGenerator.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MainMenu.cs
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\MainMenu.cs
+    projectPath: Assets\Scripts\MainMenu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\MainMenu.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\MainMenu.cs.meta
+    projectPath: Assets\Scripts\MainMenu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\OptionsMenu.cs
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\OptionsMenu.cs
+    projectPath: Assets\Scripts\OptionsMenu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\OptionsMenu.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\OptionsMenu.cs.meta
+    projectPath: Assets\Scripts\OptionsMenu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PauseMenu.cs
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\PauseMenu.cs
+    projectPath: Assets\Scripts\PauseMenu.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\PauseMenu.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\PauseMenu.cs.meta
+    projectPath: Assets\Scripts\PauseMenu.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TileMap.cs
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\TileMap.cs
+    projectPath: Assets\Scripts\TileMap.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TileMap.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\TileMap.cs.meta
+    projectPath: Assets\Scripts\TileMap.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TileType.cs
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\TileType.cs
+    projectPath: Assets\Scripts\TileType.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\TileType.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\TileType.cs.meta
+    projectPath: Assets\Scripts\TileType.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Unit.cs
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\Unit.cs
+    projectPath: Assets\Scripts\Unit.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Unit.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\Scripts\Unit.cs.meta
+    projectPath: Assets\Scripts\Unit.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TileMap.cs
+    fullPath: D:\Unity\New Unity Project\Assets\TileMap.cs
+    projectPath: Assets\TileMap.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\TileMap.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\TileMap.cs.meta
+    projectPath: Assets\TileMap.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\TileMovingCode.cs
     fullPath: D:\Unity\New Unity Project\Assets\TileMovingCode.cs
     projectPath: Assets\TileMovingCode.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\TileMovingCode.cs.meta
     fullPath: D:\Unity\New Unity Project\Assets\TileMovingCode.cs.meta
     projectPath: Assets\TileMovingCode.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TitleText.psd
-    fullPath: D:\Unity\New Unity Project\Assets\TitleText.psd
-    projectPath: Assets\TitleText.psd
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\TileType.cs
+    fullPath: D:\Unity\New Unity Project\Assets\TileType.cs
+    projectPath: Assets\TileType.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets\TitleText.psd.meta
-    fullPath: D:\Unity\New Unity Project\Assets\TitleText.psd.meta
-    projectPath: Assets\TitleText.psd.meta
+  - path: Assets\TileType.cs.meta
+    fullPath: D:\Unity\New Unity Project\Assets\TileType.cs.meta
+    projectPath: Assets\TileType.cs.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -122,101 +1570,59 @@ MonoBehaviour:
     fullPath: D:\Unity\New Unity Project\Assets\wolf.blend
     projectPath: Assets\wolf.blend
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\wolf.blend.meta
     fullPath: D:\Unity\New Unity Project\Assets\wolf.blend.meta
     projectPath: Assets\wolf.blend.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\ArtifactDB
     fullPath: D:\Unity\New Unity Project\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\01\01ffad216356c0863d0f7e6f1b4f9942
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\01\01ffad216356c0863d0f7e6f1b4f9942
-    projectPath: Library\Artifacts\01\01ffad216356c0863d0f7e6f1b4f9942
+  - path: Library\Artifacts\2d\2d6b96852e977ccebebe576346cf4491
+    fullPath: D:\Unity\New Unity Project\Library\Artifacts\2d\2d6b96852e977ccebebe576346cf4491
+    projectPath: Library\Artifacts\2d\2d6b96852e977ccebebe576346cf4491
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\05\05b96524a3638120ec47f5a2d9d6f8ed
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\05\05b96524a3638120ec47f5a2d9d6f8ed
-    projectPath: Library\Artifacts\05\05b96524a3638120ec47f5a2d9d6f8ed
+  - path: Library\Artifacts\5e\5e528e2f7536377914916fb44579d331
+    fullPath: D:\Unity\New Unity Project\Library\Artifacts\5e\5e528e2f7536377914916fb44579d331
+    projectPath: Library\Artifacts\5e\5e528e2f7536377914916fb44579d331
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\07\07200758782f607d71c9381e3e741743
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\07\07200758782f607d71c9381e3e741743
-    projectPath: Library\Artifacts\07\07200758782f607d71c9381e3e741743
+  - path: Library\Artifacts\b5\b570a7a85cd90c0dac0982c7dc9d1298
+    fullPath: D:\Unity\New Unity Project\Library\Artifacts\b5\b570a7a85cd90c0dac0982c7dc9d1298
+    projectPath: Library\Artifacts\b5\b570a7a85cd90c0dac0982c7dc9d1298
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\28\288ec368e974dee74e26a808dab462b8
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\28\288ec368e974dee74e26a808dab462b8
-    projectPath: Library\Artifacts\28\288ec368e974dee74e26a808dab462b8
+  - path: Library\Artifacts\b8\b8e46562079720dcb8652a9d30889f65
+    fullPath: D:\Unity\New Unity Project\Library\Artifacts\b8\b8e46562079720dcb8652a9d30889f65
+    projectPath: Library\Artifacts\b8\b8e46562079720dcb8652a9d30889f65
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\35\35b3bf871180d83c592070d2bed69541
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\35\35b3bf871180d83c592070d2bed69541
-    projectPath: Library\Artifacts\35\35b3bf871180d83c592070d2bed69541
+  - path: Library\Artifacts\c7\c7d740e9a8cbadd77830c1174c69fb73
+    fullPath: D:\Unity\New Unity Project\Library\Artifacts\c7\c7d740e9a8cbadd77830c1174c69fb73
+    projectPath: Library\Artifacts\c7\c7d740e9a8cbadd77830c1174c69fb73
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\63\631f860a1295f64449a4acc8770023e1
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\63\631f860a1295f64449a4acc8770023e1
-    projectPath: Library\Artifacts\63\631f860a1295f64449a4acc8770023e1
+  - path: Library\Artifacts\c9\c9e815ea2d3e614565e690cfd017a42a
+    fullPath: D:\Unity\New Unity Project\Library\Artifacts\c9\c9e815ea2d3e614565e690cfd017a42a
+    projectPath: Library\Artifacts\c9\c9e815ea2d3e614565e690cfd017a42a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\72\728f916c03afb539259469e33c023554
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\72\728f916c03afb539259469e33c023554
-    projectPath: Library\Artifacts\72\728f916c03afb539259469e33c023554
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\82\82de20801d3ed9ff4ad64a5e8751a94e
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\82\82de20801d3ed9ff4ad64a5e8751a94e
-    projectPath: Library\Artifacts\82\82de20801d3ed9ff4ad64a5e8751a94e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\89\899003ab1ecf3c913e612ced863b189e
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\89\899003ab1ecf3c913e612ced863b189e
-    projectPath: Library\Artifacts\89\899003ab1ecf3c913e612ced863b189e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\89\89d92dafe98dd143fbfd95f08d37d440
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\89\89d92dafe98dd143fbfd95f08d37d440
-    projectPath: Library\Artifacts\89\89d92dafe98dd143fbfd95f08d37d440
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\97\97d81636dc381930bf0cc7defd5abb0b
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\97\97d81636dc381930bf0cc7defd5abb0b
-    projectPath: Library\Artifacts\97\97d81636dc381930bf0cc7defd5abb0b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9f\9f99d51da9b13a3394754d71454a32b6
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\9f\9f99d51da9b13a3394754d71454a32b6
-    projectPath: Library\Artifacts\9f\9f99d51da9b13a3394754d71454a32b6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ad\ad08c16b3b5e39660840d80a68f77b4b
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\ad\ad08c16b3b5e39660840d80a68f77b4b
-    projectPath: Library\Artifacts\ad\ad08c16b3b5e39660840d80a68f77b4b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ad\adac31436abd02a610644ce40032b4fc
-    fullPath: D:\Unity\New Unity Project\Library\Artifacts\ad\adac31436abd02a610644ce40032b4fc
-    projectPath: Library\Artifacts\ad\adac31436abd02a610644ce40032b4fc
+  - path: Library\Artifacts\d8\d8f62878b58939853bcb549cbb08d699
+    fullPath: D:\Unity\New Unity Project\Library\Artifacts\d8\d8f62878b58939853bcb549cbb08d699
+    projectPath: Library\Artifacts\d8\d8f62878b58939853bcb549cbb08d699
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -226,9 +1632,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\Unity\New Unity Project\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: D:\Unity\New Unity Project\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\expandedItems
     fullPath: D:\Unity\New Unity Project\Library\expandedItems
     projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Unity\New Unity Project\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -268,6 +1692,84 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\LastBuild.buildreport
+    fullPath: D:\Unity\New Unity Project\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\globalgamemanagers
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\level0
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\level0
+    projectPath: Library\PlayerDataCache\Win\Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\level1
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\level1
+    projectPath: Library\PlayerDataCache\Win\Data\level1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\resources.assets
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\resources.assets
+    projectPath: Library\PlayerDataCache\Win\Data\resources.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\Data\sharedassets1.assets
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    fullPath: D:\Unity\New Unity Project\Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    projectPath: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -277,6 +1779,90 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptMapper
+    fullPath: D:\Unity\New Unity Project\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -292,6 +1878,30 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
     fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
@@ -304,21 +1914,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: D:\Unity\New Unity Project\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\d51e25-mainStage.json
-    fullPath: D:\Unity\New Unity Project\Library\StateCache\Hierarchy\d51e25-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\d51e25-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\d82158-mainStage.json
-    fullPath: D:\Unity\New Unity Project\Library\StateCache\SceneView\d82158-mainStage.json
-    projectPath: Library\StateCache\SceneView\d82158-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -331,6 +1959,12 @@ MonoBehaviour:
   - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     fullPath: D:\Unity\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: D:\Unity\New Unity Project\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

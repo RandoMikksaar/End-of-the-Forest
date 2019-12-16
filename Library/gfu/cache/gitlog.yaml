@@ -13,9 +13,339 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-12-12T18:19:49.841+02:00
-  initializedAtString: 2019-12-12T18:19:49.841+02:00
+  lastUpdatedAtString: 2019-12-13T11:55:06.812+02:00
+  initializedAtString: 2019-12-13T11:55:06.751+02:00
   log:
+  - commitID: 18526e0ba9fa91156aa495e04b8a0e8d90a483f2
+    mergeA: 
+    mergeB: 
+    authorName: Rando Mikksaar
+    authorEmail: 23726279+RandoMikksaar@users.noreply.github.com
+    commitEmail: 23726279+RandoMikksaar@users.noreply.github.com
+    commitName: Rando Mikksaar
+    summary: som more stuff
+    description: 
+    timeString: 2019-12-13T11:47:50.000+02:00
+    commitTimeString: 2019-12-13T11:47:50.000+02:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: D:\Unity\New Unity Project\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\ClickableTile.cs
+      fullPath: D:\Unity\New Unity Project\Assets\ClickableTile.cs
+      projectPath: Assets\ClickableTile.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\ClickableTile.cs.meta
+      fullPath: D:\Unity\New Unity Project\Assets\ClickableTile.cs.meta
+      projectPath: Assets\ClickableTile.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\dirt.prefab
+      fullPath: D:\Unity\New Unity Project\Assets\Prefabs\dirt.prefab
+      projectPath: Assets\Prefabs\dirt.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\grass 3.prefab
+      fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass 3.prefab
+      projectPath: Assets\Prefabs\grass 3.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\grass 4.prefab
+      fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass 4.prefab
+      projectPath: Assets\Prefabs\grass 4.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\grass1.prefab
+      fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass1.prefab
+      projectPath: Assets\Prefabs\grass1.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\grass2.prefab
+      fullPath: D:\Unity\New Unity Project\Assets\Prefabs\grass2.prefab
+      projectPath: Assets\Prefabs\grass2.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\mud.prefab
+      fullPath: D:\Unity\New Unity Project\Assets\Prefabs\mud.prefab
+      projectPath: Assets\Prefabs\mud.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\water.prefab
+      fullPath: D:\Unity\New Unity Project\Assets\Prefabs\water.prefab
+      projectPath: Assets\Prefabs\water.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\First Section.unity
+      fullPath: D:\Unity\New Unity Project\Assets\Scenes\First Section.unity
+      projectPath: Assets\Scenes\First Section.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\TileMovingCode.cs
+      fullPath: D:\Unity\New Unity Project\Assets\TileMovingCode.cs
+      projectPath: Assets\TileMovingCode.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TileMovingCode.cs.meta
+      fullPath: D:\Unity\New Unity Project\Assets\TileMovingCode.cs.meta
+      projectPath: Assets\TileMovingCode.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\TitleText.psd
+      fullPath: D:\Unity\New Unity Project\Assets\TitleText.psd
+      projectPath: Assets\TitleText.psd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\TitleText.psd.meta
+      fullPath: D:\Unity\New Unity Project\Assets\TitleText.psd.meta
+      projectPath: Assets\TitleText.psd.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\man.blend
+      fullPath: D:\Unity\New Unity Project\Assets\man.blend
+      projectPath: Assets\man.blend
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\man.blend.meta
+      fullPath: D:\Unity\New Unity Project\Assets\man.blend.meta
+      projectPath: Assets\man.blend.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\wolf.blend
+      fullPath: D:\Unity\New Unity Project\Assets\wolf.blend
+      projectPath: Assets\wolf.blend
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\wolf.blend.meta
+      fullPath: D:\Unity\New Unity Project\Assets\wolf.blend.meta
+      projectPath: Assets\wolf.blend.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\Unity\New Unity Project\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\01\01ffad216356c0863d0f7e6f1b4f9942
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\01\01ffad216356c0863d0f7e6f1b4f9942
+      projectPath: Library\Artifacts\01\01ffad216356c0863d0f7e6f1b4f9942
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\05\05b96524a3638120ec47f5a2d9d6f8ed
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\05\05b96524a3638120ec47f5a2d9d6f8ed
+      projectPath: Library\Artifacts\05\05b96524a3638120ec47f5a2d9d6f8ed
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\07\07200758782f607d71c9381e3e741743
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\07\07200758782f607d71c9381e3e741743
+      projectPath: Library\Artifacts\07\07200758782f607d71c9381e3e741743
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\28\288ec368e974dee74e26a808dab462b8
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\28\288ec368e974dee74e26a808dab462b8
+      projectPath: Library\Artifacts\28\288ec368e974dee74e26a808dab462b8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\35\35b3bf871180d83c592070d2bed69541
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\35\35b3bf871180d83c592070d2bed69541
+      projectPath: Library\Artifacts\35\35b3bf871180d83c592070d2bed69541
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\63\631f860a1295f64449a4acc8770023e1
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\63\631f860a1295f64449a4acc8770023e1
+      projectPath: Library\Artifacts\63\631f860a1295f64449a4acc8770023e1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\72\728f916c03afb539259469e33c023554
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\72\728f916c03afb539259469e33c023554
+      projectPath: Library\Artifacts\72\728f916c03afb539259469e33c023554
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\82\82de20801d3ed9ff4ad64a5e8751a94e
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\82\82de20801d3ed9ff4ad64a5e8751a94e
+      projectPath: Library\Artifacts\82\82de20801d3ed9ff4ad64a5e8751a94e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\89\899003ab1ecf3c913e612ced863b189e
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\89\899003ab1ecf3c913e612ced863b189e
+      projectPath: Library\Artifacts\89\899003ab1ecf3c913e612ced863b189e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\89\89d92dafe98dd143fbfd95f08d37d440
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\89\89d92dafe98dd143fbfd95f08d37d440
+      projectPath: Library\Artifacts\89\89d92dafe98dd143fbfd95f08d37d440
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\97\97d81636dc381930bf0cc7defd5abb0b
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\97\97d81636dc381930bf0cc7defd5abb0b
+      projectPath: Library\Artifacts\97\97d81636dc381930bf0cc7defd5abb0b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\9f\9f99d51da9b13a3394754d71454a32b6
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\9f\9f99d51da9b13a3394754d71454a32b6
+      projectPath: Library\Artifacts\9f\9f99d51da9b13a3394754d71454a32b6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ad\ad08c16b3b5e39660840d80a68f77b4b
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\ad\ad08c16b3b5e39660840d80a68f77b4b
+      projectPath: Library\Artifacts\ad\ad08c16b3b5e39660840d80a68f77b4b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ad\adac31436abd02a610644ce40032b4fc
+      fullPath: D:\Unity\New Unity Project\Library\Artifacts\ad\adac31436abd02a610644ce40032b4fc
+      projectPath: Library\Artifacts\ad\adac31436abd02a610644ce40032b4fc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\Unity\New Unity Project\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\Unity\New Unity Project\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: D:\Unity\New Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: D:\Unity\New Unity Project\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\Unity\New Unity Project\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\d51e25-mainStage.json
+      fullPath: D:\Unity\New Unity Project\Library\StateCache\Hierarchy\d51e25-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\d51e25-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\d82158-mainStage.json
+      fullPath: D:\Unity\New Unity Project\Library\StateCache\SceneView\d82158-mainStage.json
+      projectPath: Library\StateCache\SceneView\d82158-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\Unity\New Unity Project\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Unity\New Unity Project\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Unity\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Unity\New Unity Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: D:\Unity\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: D:\Unity\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: D:\Unity\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: f0413faf564c367618384e48b9dd27fba000ef44
     mergeA: 2d17f7b800aabab79087526c656ec97073bdbf14
     mergeB: e4987c0f1d002588e18e46c3152927d05221f36d
