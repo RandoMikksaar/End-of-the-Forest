@@ -5,17 +5,13 @@ ScriptsOnlyBuild:
     - ClickableTile
     - MainMenu
     - OptionsMenu
+    - Outline
     - PauseMenu
+    - PlayerMove
     - TileMap
-    GitHub.Unity.45.dll:
-    - GitHub.Unity.ApplicationCache
-    - GitHub.Unity.BranchesCache
-    - GitHub.Unity.EnvironmentCache
-    - GitHub.Unity.GitAheadBehindCache
-    - GitHub.Unity.GitLocksCache
-    - GitHub.Unity.GitLogCache
-    - GitHub.Unity.GitStatusCache
-    - GitHub.Unity.RepositoryInfoCache
+    - Unit
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
     - TMPro.TMP_Dropdown
     - TMPro.TMP_FontAsset
@@ -34,6 +30,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.Mask
+    - UnityEngine.UI.Outline
     - UnityEngine.UI.ScrollRect
     - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Slider
@@ -58,7 +55,11 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
     - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -71,38 +72,42 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11156}
+      Script: {instanceID: 11200}
     - Class: 114
-      Script: {instanceID: 11300}
+      Script: {instanceID: 11346}
     - Class: 114
-      Script: {instanceID: 11356}
+      Script: {instanceID: 11404}
     - Class: 114
-      Script: {instanceID: 11740}
+      Script: {instanceID: 11520}
     - Class: 114
-      Script: {instanceID: 12048}
+      Script: {instanceID: 11794}
     - Class: 114
-      Script: {instanceID: 12182}
+      Script: {instanceID: 12028}
     - Class: 114
-      Script: {instanceID: 12394}
+      Script: {instanceID: 12134}
     - Class: 114
-      Script: {instanceID: 12570}
+      Script: {instanceID: 12172}
     - Class: 114
-      Script: {instanceID: 12576}
+      Script: {instanceID: 12392}
     - Class: 114
-      Script: {instanceID: 12634}
+      Script: {instanceID: 12564}
     - Class: 114
-      Script: {instanceID: 12968}
+      Script: {instanceID: 12586}
     - Class: 114
-      Script: {instanceID: 12994}
+      Script: {instanceID: 12592}
+    - Class: 114
+      Script: {instanceID: 12650}
+    - Class: 114
+      Script: {instanceID: 12944}
+    - Class: 114
+      Script: {instanceID: 12980}
+    - Class: 114
+      Script: {instanceID: 13008}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 137
       Script: {instanceID: 0}
     - Class: 157
-      Script: {instanceID: 0}
-    - Class: 198
-      Script: {instanceID: 0}
-    - Class: 199
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -144,45 +149,45 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11156}
-    - Class: 114
       Script: {instanceID: 11200}
     - Class: 114
-      Script: {instanceID: 11262}
+      Script: {instanceID: 11244}
     - Class: 114
-      Script: {instanceID: 11318}
+      Script: {instanceID: 11308}
     - Class: 114
-      Script: {instanceID: 11356}
+      Script: {instanceID: 11366}
     - Class: 114
-      Script: {instanceID: 11646}
+      Script: {instanceID: 11404}
     - Class: 114
-      Script: {instanceID: 11740}
+      Script: {instanceID: 11700}
     - Class: 114
-      Script: {instanceID: 11760}
+      Script: {instanceID: 11794}
     - Class: 114
-      Script: {instanceID: 12000}
+      Script: {instanceID: 11814}
     - Class: 114
-      Script: {instanceID: 12182}
+      Script: {instanceID: 11978}
     - Class: 114
-      Script: {instanceID: 12394}
+      Script: {instanceID: 12172}
     - Class: 114
-      Script: {instanceID: 12408}
+      Script: {instanceID: 12392}
     - Class: 114
-      Script: {instanceID: 12570}
+      Script: {instanceID: 12406}
     - Class: 114
-      Script: {instanceID: 12576}
+      Script: {instanceID: 12586}
     - Class: 114
-      Script: {instanceID: 12634}
+      Script: {instanceID: 12592}
     - Class: 114
-      Script: {instanceID: 12786}
+      Script: {instanceID: 12650}
     - Class: 114
-      Script: {instanceID: 12974}
+      Script: {instanceID: 12800}
     - Class: 114
-      Script: {instanceID: 12994}
+      Script: {instanceID: 12986}
     - Class: 114
       Script: {instanceID: 13008}
     - Class: 114
-      Script: {instanceID: 13024}
+      Script: {instanceID: 13022}
+    - Class: 114
+      Script: {instanceID: 13038}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -324,6 +329,12 @@ ScriptsOnlyBuild:
     className: SignalAsset
   - hash:
       serializedVersion: 2
+      Hash: 7d480b8f140f9e4bedc2a33b11c6db43
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Unit
+  - hash:
+      serializedVersion: 2
       Hash: 0dbc3be398b4869a5c8d0d8481ee402c
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -450,6 +461,12 @@ ScriptsOnlyBuild:
     className: RemoteTestResultSender
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMove
+  - hash:
+      serializedVersion: 2
       Hash: 4fd8bf02e3089425d3502e26c44ba31a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -522,13 +539,19 @@ ScriptsOnlyBuild:
     className: TimelineAsset
   - hash:
       serializedVersion: 2
+      Hash: ff7f58b226cfe4de0dc241bd88d5a904
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Outline
+  - hash:
+      serializedVersion: 2
       Hash: 3b760e6526e13f7504f59e210145899a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
   - hash:
       serializedVersion: 2
-      Hash: 7d480b8f140f9e4bedc2a33b11c6db43
+      Hash: acc2e6b4e638d4426ef19162c270410a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ClickableTile
@@ -550,12 +573,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
-  - hash:
-      serializedVersion: 2
-      Hash: 61bca179f4b892698aac7386bdf4e847
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TileMovingCode
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -612,7 +629,7 @@ ScriptsOnlyBuild:
     className: TMP_SubMesh
   - hash:
       serializedVersion: 2
-      Hash: 7b8b5bee2c10fa9d7e22073fbeaf6473
+      Hash: 3f658947b9c2f4eb6c41b20cd0e340c4
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: TileMap
@@ -630,7 +647,7 @@ ScriptsOnlyBuild:
     className: MainMenu
   - hash:
       serializedVersion: 2
-      Hash: b4d278bcca1055fd3c9791d00a07fcfd
+      Hash: 4ef0f7d42cdb13479386e1f049c315aa
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner
     className: PlaymodeTestsController
